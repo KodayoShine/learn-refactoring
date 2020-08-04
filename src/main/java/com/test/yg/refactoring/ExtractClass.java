@@ -11,7 +11,6 @@ package com.test.yg.refactoring;
  * 6.检查是否还有重复代码，有则以后再说
  *
  * @author sunshine
- * @date 2020-8-3 23:28:40
  */
 public class ExtractClass {
 
