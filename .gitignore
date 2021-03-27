@@ -1,0 +1,48 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.log.*.gz
+*.log.pid*
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Intellij Patch #
+*.iml
+.idea
+*.idea
+
+# generated swagger doc #
+.adoc
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+.settings
+target
+.classpath
+.project
+.metadata
+.springBeans
+.factorypath
+
+# Maven #
+target/
+
+# JRebel #
+rebel.xml
+.rebel.xml.bak
+
+# Logs
+logs/
+.rebel-remote.xml.bak
+/.git/
